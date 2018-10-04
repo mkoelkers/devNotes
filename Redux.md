@@ -1,4 +1,4 @@
-#Connecting to Redux
+# Connecting to Redux
 
 1. Action
   - Make Action Creator

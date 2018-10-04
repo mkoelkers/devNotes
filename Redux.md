@@ -10,7 +10,7 @@
   - Import Action Creator
   - Add Action Creator to Props
   - Add Action Creator to matchDispatchToProps
-  - Create Function in Parent Component
+  - Create Function in Parent Component to call Action Creator
   - Pass Function into Child Component
 - Child Component
   - Add function from Parent Component to Props

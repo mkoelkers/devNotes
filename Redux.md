@@ -4,7 +4,7 @@
   - Make Action Creator
   - Make Thunk
 - Reducer
-  - Import Thunk
+  - Import action
   - Add to reducer function
 - Parent Component
   - Import Action Creator

@@ -8,4 +8,4 @@
         - takes in DOB, fName, lName, Gender
         - Queries to find matching employee
         - Return the employee to the controller or NULL
-  - return the found employee
+  - return the found employee 
